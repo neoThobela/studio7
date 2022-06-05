@@ -1,0 +1,18 @@
+{
+    "classes": [
+        "navbar",
+        "marginright10",
+        "home",
+        "btn",
+        "mat-button",
+        "mat-icon-button",
+        "mat-stroked-button",
+        "mat-flat-button",
+        "ourService",
+        "width20",
+        "icon",
+        "lightblueBg",
+        "centerText",
+        "getInTouchContents"
+    ]
+}
